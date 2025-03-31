@@ -1,0 +1,7 @@
+polars==1.26.0
+colorama
+optuna
+catboost==1.2.7
+autogluon.tabular
+ray==2.10.0
+dask

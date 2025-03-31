@@ -1,0 +1,12 @@
+xgboost==2.1.4
+catboost==1.2.7
+numpy==1.26.4
+lightgbm==4.6.0
+scipy==1.14.1
+polars==1.26.0
+colorama
+cloudpickle
+optuna
+pytorch_tabnet
+scikit-lego
+tabpfn

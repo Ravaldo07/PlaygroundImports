@@ -1,0 +1,3 @@
+lightautoml
+colorama
+polars==1.26.0
